@@ -405,6 +405,9 @@ implementation 'com.squareup.okhttp3:okhttp:4.12.0'
 
 - 🆓 **[Yes No](https://yesno.wtf/api)** — Yes/no oracle with a GIF. Single endpoint, fun for binary decisions.
 
+
+- 🆓 **[Datamuse](https://www.datamuse.com/api/)** — Word-finding query engine: rhymes, synonyms, related words. No auth.
+
 ## Contributing
 
 Pull requests welcome! See [contributing.md](contributing.md). Add APIs that are:
