@@ -411,6 +411,9 @@ implementation 'com.squareup.okhttp3:okhttp:4.12.0'
 
 - 🆓 **[Time API](https://timeapi.io/swagger/index.html)** — Current time in any timezone, time conversion. Free.
 
+
+- 🆓 **[ShrtCo](https://shrtco.de/docs)** — Free URL shortener API. No auth, simple JSON response.
+
 ## Contributing
 
 Pull requests welcome! See [contributing.md](contributing.md). Add APIs that are:
