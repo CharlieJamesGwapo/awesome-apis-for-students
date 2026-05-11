@@ -393,6 +393,9 @@ implementation 'com.squareup.okhttp3:okhttp:4.12.0'
 
 - 🆓 **[Disney API](https://disneyapi.dev/)** — Search Disney characters, films, TV shows. No auth.
 
+
+- 🔑 **[Marvel API](https://developer.marvel.com/)** — Comics, characters, creators. Free tier with key.
+
 ## Contributing
 
 Pull requests welcome! See [contributing.md](contributing.md). Add APIs that are:
