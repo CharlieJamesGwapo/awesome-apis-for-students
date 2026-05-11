@@ -414,6 +414,9 @@ implementation 'com.squareup.okhttp3:okhttp:4.12.0'
 
 - 🆓 **[ShrtCo](https://shrtco.de/docs)** — Free URL shortener API. No auth, simple JSON response.
 
+
+- 🆓 **[Faker API](https://fakerapi.it/)** — Generate fake data for testing: users, addresses, products, images.
+
 ## Contributing
 
 Pull requests welcome! See [contributing.md](contributing.md). Add APIs that are:
