@@ -390,6 +390,9 @@ implementation 'com.squareup.okhttp3:okhttp:4.12.0'
 
 - 🔑 **[The One API (Lord of the Rings)](https://the-one-api.dev/)** — Books, movies, characters, quotes from LotR. Free with key.
 
+
+- 🆓 **[Disney API](https://disneyapi.dev/)** — Search Disney characters, films, TV shows. No auth.
+
 ## Contributing
 
 Pull requests welcome! See [contributing.md](contributing.md). Add APIs that are:
