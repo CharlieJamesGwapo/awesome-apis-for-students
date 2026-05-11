@@ -423,6 +423,9 @@ implementation 'com.squareup.okhttp3:okhttp:4.12.0'
 
 - 🆓 **[NASA Image and Video Library](https://images.nasa.gov/)** — Search NASA media archive. No auth required.
 
+
+- 🆓 **[iTunes Search](https://performance-partners.apple.com/search-api)** — Apple's music, podcast, app, and book search API. No auth.
+
 ## Contributing
 
 Pull requests welcome! See [contributing.md](contributing.md). Add APIs that are:
