@@ -387,6 +387,9 @@ implementation 'com.squareup.okhttp3:okhttp:4.12.0'
 
 - 🆓 **[Studio Ghibli API](https://ghibliapi.vercel.app/)** — Films, characters, locations from Studio Ghibli. Great for movie list demos.
 
+
+- 🔑 **[The One API (Lord of the Rings)](https://the-one-api.dev/)** — Books, movies, characters, quotes from LotR. Free with key.
+
 ## Contributing
 
 Pull requests welcome! See [contributing.md](contributing.md). Add APIs that are:
