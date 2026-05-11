@@ -402,6 +402,9 @@ implementation 'com.squareup.okhttp3:okhttp:4.12.0'
 
 - 🆓 **[ZenQuotes](https://zenquotes.io/)** — Random inspirational quotes. Excellent for first API project.
 
+
+- 🆓 **[Yes No](https://yesno.wtf/api)** — Yes/no oracle with a GIF. Single endpoint, fun for binary decisions.
+
 ## Contributing
 
 Pull requests welcome! See [contributing.md](contributing.md). Add APIs that are:
