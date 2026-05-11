@@ -408,6 +408,9 @@ implementation 'com.squareup.okhttp3:okhttp:4.12.0'
 
 - 🆓 **[Datamuse](https://www.datamuse.com/api/)** — Word-finding query engine: rhymes, synonyms, related words. No auth.
 
+
+- 🆓 **[Time API](https://timeapi.io/swagger/index.html)** — Current time in any timezone, time conversion. Free.
+
 ## Contributing
 
 Pull requests welcome! See [contributing.md](contributing.md). Add APIs that are:
