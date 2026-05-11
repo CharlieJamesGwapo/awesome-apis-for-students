@@ -429,6 +429,9 @@ implementation 'com.squareup.okhttp3:okhttp:4.12.0'
 
 - 🔑 **[Geoapify](https://www.geoapify.com/)** — Geocoding, routing, places. 3,000 free requests/day.
 
+
+- 🆓 **[Lyrics.ovh](https://lyricsovh.docs.apiary.io/)** — Fetch song lyrics by artist + title. Free, no auth.
+
 ## Contributing
 
 Pull requests welcome! See [contributing.md](contributing.md). Add APIs that are:
