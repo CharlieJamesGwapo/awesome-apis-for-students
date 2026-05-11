@@ -286,7 +286,7 @@ If you're staring at a blank IDE wondering what to build, here are projects size
 
 ### Semester / Group Project
 
-11. **Internet Cafe Reservation System** — pair with [omjibillingsystem](https://github.com/CharlieJamesGwapo/omjibillingsystem); show available stations + per-hour rates.
+11. **Internet Cafe Reservation System** — show available PC stations + per-hour rates with QR code check-in.
 12. **Event Locator** — Nominatim + REST Countries to map and filter events.
 13. **PSGC-Powered Address Form** — Use PSGC API for proper Philippine address dropdowns (region → province → city → barangay).
 14. **Earthquake Alert System** — USGS + email/SMS notifications for nearby quakes.
