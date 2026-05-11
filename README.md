@@ -426,6 +426,9 @@ implementation 'com.squareup.okhttp3:okhttp:4.12.0'
 
 - 🆓 **[iTunes Search](https://performance-partners.apple.com/search-api)** — Apple's music, podcast, app, and book search API. No auth.
 
+
+- 🔑 **[Geoapify](https://www.geoapify.com/)** — Geocoding, routing, places. 3,000 free requests/day.
+
 ## Contributing
 
 Pull requests welcome! See [contributing.md](contributing.md). Add APIs that are:
