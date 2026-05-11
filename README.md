@@ -435,6 +435,9 @@ implementation 'com.squareup.okhttp3:okhttp:4.12.0'
 
 - 🆓 **[Open5e](https://open5e.com/)** — D&D 5th edition spells, monsters, classes. Free, no auth.
 
+
+- 🆓 **[Breaking Bad API](https://breakingbadapi.com/documentation)** — Characters, episodes, quotes from Breaking Bad / Better Call Saul.
+
 ## Contributing
 
 Pull requests welcome! See [contributing.md](contributing.md). Add APIs that are:
