@@ -381,6 +381,9 @@ implementation 'com.squareup.okhttp3:okhttp:4.12.0'
 
 - 🆓 **[ChuckNorris.io](https://api.chucknorris.io/)** — Random Chuck Norris jokes, no auth, perfect for first-API tutorials.
 
+
+- 🆓 **[icanhazdadjoke](https://icanhazdadjoke.com/api)** — Wholesome dad jokes API. Set Accept header to application/json.
+
 ## Contributing
 
 Pull requests welcome! See [contributing.md](contributing.md). Add APIs that are:
