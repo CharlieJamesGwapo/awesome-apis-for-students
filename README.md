@@ -432,6 +432,9 @@ implementation 'com.squareup.okhttp3:okhttp:4.12.0'
 
 - 🆓 **[Lyrics.ovh](https://lyricsovh.docs.apiary.io/)** — Fetch song lyrics by artist + title. Free, no auth.
 
+
+- 🆓 **[Open5e](https://open5e.com/)** — D&D 5th edition spells, monsters, classes. Free, no auth.
+
 ## Contributing
 
 Pull requests welcome! See [contributing.md](contributing.md). Add APIs that are:
