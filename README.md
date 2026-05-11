@@ -399,6 +399,9 @@ implementation 'com.squareup.okhttp3:okhttp:4.12.0'
 
 - 🔑 **[RAWG Video Games](https://rawg.io/apidocs)** — Largest video game database. Free tier 20k requests/month.
 
+
+- 🆓 **[ZenQuotes](https://zenquotes.io/)** — Random inspirational quotes. Excellent for first API project.
+
 ## Contributing
 
 Pull requests welcome! See [contributing.md](contributing.md). Add APIs that are:
