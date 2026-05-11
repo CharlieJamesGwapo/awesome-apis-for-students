@@ -420,6 +420,9 @@ implementation 'com.squareup.okhttp3:okhttp:4.12.0'
 
 - 🆓 **[Random Data API](https://random-data-api.com/)** — Random users, addresses, beers, banks. Great for seeding dev databases.
 
+
+- 🆓 **[NASA Image and Video Library](https://images.nasa.gov/)** — Search NASA media archive. No auth required.
+
 ## Contributing
 
 Pull requests welcome! See [contributing.md](contributing.md). Add APIs that are:
