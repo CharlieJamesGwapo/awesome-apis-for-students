@@ -384,6 +384,9 @@ implementation 'com.squareup.okhttp3:okhttp:4.12.0'
 
 - 🆓 **[icanhazdadjoke](https://icanhazdadjoke.com/api)** — Wholesome dad jokes API. Set Accept header to application/json.
 
+
+- 🆓 **[Studio Ghibli API](https://ghibliapi.vercel.app/)** — Films, characters, locations from Studio Ghibli. Great for movie list demos.
+
 ## Contributing
 
 Pull requests welcome! See [contributing.md](contributing.md). Add APIs that are:
