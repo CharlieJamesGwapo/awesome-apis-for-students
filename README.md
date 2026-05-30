@@ -19,6 +19,7 @@ For each category, you'll find code samples in multiple languages so you can plu
   - [📰 News](#news)
   - [⚽ Sports](#sports)
   - [🍕 Food & Recipes](#food--recipes)
+  - [🧬 Health & Wellness](#health--wellness)
   - [🎬 Entertainment & Media](#entertainment--media)
   - [📚 Education & Books](#education--books)
   - [🤖 AI & Machine Learning](#ai--machine-learning)
@@ -189,6 +190,10 @@ System.out.println(res.body());
 - 🆓 **[Open Food Facts](https://world.openfoodfacts.org/data)** — Crowdsourced food product database. Scan a barcode, get the data.
 - 🆓 **[Edamam Recipe Search](https://developer.edamam.com/edamam-recipe-api)** — 5 requests/minute free.
 
+### Health & Wellness
+
+- 🆓 **[Longevity World Cup](https://longevityworldcup.com/swagger)** — Public biological-age competition API with athlete profiles, biomarker-based age clocks, and leaderboards. No API key required.
+
 ### Entertainment & Media
 
 - 🔑🏆 **[TMDB (The Movie DB)](https://developer.themoviedb.org/)** — Movies, TV shows, cast, posters. Generous free tier — the go-to for movie apps.
@@ -296,6 +301,7 @@ If you're staring at a blank IDE wondering what to build, here are projects size
 18. **AI Chatbot with Context** — Groq or Gemini, with chat history saved to MySQL.
 19. **Anime Recommendation Engine** — Jikan + simple content-based filtering.
 20. **OFW Remittance Calculator** — ExchangeRate-API + BSP rates for accurate PHP conversions.
+21. **Biological Age Leaderboard Explorer** — Longevity World Cup API. Compare public athlete profiles, biological-age clocks, and leaderboard rankings.
 
 ### Capstone-Worthy
 
