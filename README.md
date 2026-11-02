@@ -258,7 +258,6 @@ System.out.println(res.body());
 - 🆓 **[Have I Been Pwned](https://haveibeenpwned.com/API/v3)** — Check if an email has been in a breach. (Some endpoints require key now.)
 - 🆓 **[is.gd / TinyURL](https://is.gd/developers.php)** — URL shortener APIs.
 - 🆓 **[Public Holidays](https://date.nager.at/Api)** — Public holidays for 100+ countries by year.
-- 🆓 **[Worldtime API](http://worldtimeapi.org/)** — Current time and timezone for any city.
 - 🆓 **[ipify](https://www.ipify.org/)** — Get the caller's public IP. One endpoint.
 - 🆓 **[picsum.photos](https://picsum.photos/)** — Lorem Ipsum for images. `https://picsum.photos/300/200` returns a random 300x200 image.
 - 🆓 **[Robohash](https://robohash.org/)** — Generate unique robot avatars from any string.
@@ -417,7 +416,6 @@ implementation 'com.squareup.okhttp3:okhttp:4.12.0'
 - 🆓 **[Faker API](https://fakerapi.it/)** — Generate fake data for testing: users, addresses, products, images.
 
 
-- 🆓 **[Random Data API](https://random-data-api.com/)** — Random users, addresses, beers, banks. Great for seeding dev databases.
 
 
 - 🆓 **[NASA Image and Video Library](https://images.nasa.gov/)** — Search NASA media archive. No auth required.
