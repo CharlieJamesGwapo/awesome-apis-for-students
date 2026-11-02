@@ -416,8 +416,6 @@ implementation 'com.squareup.okhttp3:okhttp:4.12.0'
 - 🆓 **[Faker API](https://fakerapi.it/)** — Generate fake data for testing: users, addresses, products, images.
 
 
-
-
 - 🆓 **[NASA Image and Video Library](https://images.nasa.gov/)** — Search NASA media archive. No auth required.
 
 
