@@ -206,7 +206,6 @@ System.out.println(res.body());
 - 🆓🏆 **[Open Library](https://openlibrary.org/developers/api)** — Books, authors, covers. No key. Great for library apps.
 - 🆓 **[Google Books](https://developers.google.com/books)** — Search 40M+ books. Free.
 - 🆓 **[Project Gutenberg (Gutendex)](https://gutendex.com/)** — 70,000+ free ebooks via JSON API.
-- 🆓 **[Numbers API](http://numbersapi.com/)** — Trivia, math, date facts about any number.
 - 🆓 **[Dictionary API](https://dictionaryapi.dev/)** — Free English dictionary with definitions, examples, audio.
 - 🆓 **[Wikipedia REST API](https://en.wikipedia.org/api/rest_v1/)** — Search Wikipedia, get summaries, page HTML.
 - 🆓 **[CollegeFootballData](https://collegefootballdata.com/)** — College football stats and games.
@@ -434,9 +433,6 @@ implementation 'com.squareup.okhttp3:okhttp:4.12.0'
 
 
 - 🆓 **[Open5e](https://open5e.com/)** — D&D 5th edition spells, monsters, classes. Free, no auth.
-
-
-- 🆓 **[Breaking Bad API](https://breakingbadapi.com/documentation)** — Characters, episodes, quotes from Breaking Bad / Better Call Saul.
 
 ## Contributing
 
