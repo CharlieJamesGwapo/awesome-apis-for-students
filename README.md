@@ -449,5 +449,6 @@ To the extent possible under law, [Charlie James Zapico Abejo](https://github.co
 ---
 
 <p align="center">
-<i>Built by a student, for students. If this list helped you ship something, consider starring the repo so other students can find it. ⭐</i>
+<i>Built by a student, for students. If this list helped you ship something, consider starring the repo so other students can find it. ⭐<br>
+To help keep it maintained, you can also <a href="https://github.com/sponsors/CharlieJamesGwapo">sponsor me on GitHub</a>.</i>
 </p>
