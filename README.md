@@ -233,7 +233,7 @@ System.out.println(res.body());
 - 🆓 **[PSGC API](https://psgc.gitlab.io/api/)** — Philippine Standard Geographic Code: regions, provinces, cities, barangays. Essential for any PH address form.
 - 🆓 **[Bangko Sentral ng Pilipinas (BSP) Reference Exchange Rates](https://www.bsp.gov.ph/SitePages/Statistics/ExchangeRate.aspx)** — Official PHP exchange rates.
 - 🆓 **[PAGASA Weather](https://www.pagasa.dost.gov.ph/)** — Philippine weather and typhoon tracking (scrape-friendly RSS / data feeds).
-- 🆓 **[Phividec / DOST APIs](https://www.dost.gov.ph/)** — Various PH government datasets.
+- 🆓 **[Open Data Philippines](https://data.gov.ph/)** — Official portal for Philippine government open datasets.
 
 ### Random & Fun
 
