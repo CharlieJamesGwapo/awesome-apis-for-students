@@ -395,7 +395,7 @@ implementation 'com.squareup.okhttp3:okhttp:4.12.0'
 - 🔑 **[Marvel API](https://developer.marvel.com/)** — Comics, characters, creators. Free tier with key.
 
 
-- 🔑 **[RAWG Video Games](https://rawg.io/apidocs)** — Largest video game database. Free tier 20k requests/month.
+- 🆓 **[FreeToGame](https://www.freetogame.com/api-doc)** — Free-to-play PC and browser games with genres, platforms and thumbnails. No auth.
 
 
 - 🆓 **[ZenQuotes](https://zenquotes.io/)** — Random inspirational quotes. Excellent for first API project.
