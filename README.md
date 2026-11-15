@@ -197,6 +197,7 @@ System.out.println(res.body());
 - 🆓 **[AniList GraphQL](https://anilist.co/graphql)** — GraphQL API for anime/manga.
 - 🆓 **[Spotify Web API](https://developer.spotify.com/documentation/web-api)** — Music metadata, playlists. Requires OAuth but free.
 - 🆓 **[Deezer](https://developers.deezer.com/api)** — Music tracks, artists, albums. No auth for public data.
+- 🆓 **[No Stairs Please](https://nostairsplease.com/mcp)** — Hosted MCP & directory of small live-music venues across all 50 US states with capacity, stage/load-in specs, and booking data.
 - 🆓 **[Giphy](https://developers.giphy.com/)** — GIFs. Free with API key.
 - 🆓 **[Pexels](https://www.pexels.com/api/)** — Free stock photos and videos. Free with API key.
 - 🆓 **[Unsplash](https://unsplash.com/developers)** — High-quality free photos. 50 requests/hour on demo tier.
