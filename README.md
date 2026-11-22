@@ -264,7 +264,6 @@ System.out.println(res.body());
 - 🆓 **[DiceBear Avatars](https://www.dicebear.com/)** — Generate avatars from initials, identicons, etc.
 - 🔑 **[Social Fetch](https://www.socialfetch.dev/docs)** — Public social media data as JSON, with 100 free credits and no card.
 
-
 ---
 
 ## Project Ideas
