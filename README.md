@@ -262,6 +262,7 @@ System.out.println(res.body());
 - 🆓 **[picsum.photos](https://picsum.photos/)** — Lorem Ipsum for images. `https://picsum.photos/300/200` returns a random 300x200 image.
 - 🆓 **[Robohash](https://robohash.org/)** — Generate unique robot avatars from any string.
 - 🆓 **[DiceBear Avatars](https://www.dicebear.com/)** — Generate avatars from initials, identicons, etc.
+- 🔑 **[Social Fetch](https://www.socialfetch.dev/docs)** — Public social media data as JSON, with 100 free credits and no card.
 
 ---
 
