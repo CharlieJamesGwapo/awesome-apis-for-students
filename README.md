@@ -180,6 +180,7 @@ System.out.println(res.body());
 - 🆓 **[Football-data.org](https://www.football-data.org/)** — Football fixtures and standings. 10 calls/minute free.
 - 🆓 **[NBA Stats (unofficial)](https://github.com/swar/nba_api)** — Wraps the official NBA endpoints.
 - 🔑 **[API-Football](https://www.api-football.com/)** — 100 requests/day free.
+- 🔑 **[Tennis Scores API (Public Records)](https://apify.com/publicrecords/tennis-scores-api)** — ATP and WTA match scores, results and rankings. Pay per row on your own Apify account (free tier available). Standby/MCP is not built.
 
 ### Food & Recipes
 
