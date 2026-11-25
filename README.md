@@ -180,6 +180,7 @@ System.out.println(res.body());
 - 🆓 **[Football-data.org](https://www.football-data.org/)** — Football fixtures and standings. 10 calls/minute free.
 - 🆓 **[NBA Stats (unofficial)](https://github.com/swar/nba_api)** — Wraps the official NBA endpoints.
 - 🔑 **[API-Football](https://www.api-football.com/)** — 100 requests/day free.
+- 🔑 **[Tennis Scores API (Public Records)](https://apify.com/publicrecords/tennis-scores-api)** — ATP and WTA match scores, results and rankings. Pay per row on your own Apify account (free tier available). Standby/MCP is not built.
 
 ### Food & Recipes
 
@@ -227,6 +228,13 @@ System.out.println(res.body());
 - 🆓 **[Data.gov](https://www.data.gov/)** — US government open datasets across hundreds of agencies.
 - 🆓 **[World Bank Open Data](https://data.worldbank.org/)** — Country-level economic indicators.
 - 🆓 **[WHO GHO](https://www.who.int/data/gho)** — World Health Organization global health observatory data.
+- [USAspending Awards Scraper](https://apify.com/publicrecords/usaspending-awards-scraper) — US federal contract and grant awards by agency, recipient, NAICS and period (Apify Actor, API + MCP).
+- [Grants.gov Scraper](https://apify.com/publicrecords/grants-gov-scraper) — Open US federal grants: agency, deadline, eligibility and source link (Apify Actor, API + MCP).
+- [Federal Contracts Feed (SAM.gov + Grants.gov)](https://apify.com/publicrecords/govcon-opportunity-feed) — New US federal contract and grant notices from SAM.gov and Grants.gov in one feed (Apify Actor, API + MCP).
+- [EU TED Tenders Scraper](https://apify.com/publicrecords/eu-ted-notices-scraper) — EU procurement notices from TED: buyer, CPV, value, deadline, link (Apify Actor, API + MCP).
+- [UK Tenders Scraper](https://apify.com/publicrecords/uk-find-a-tender-scraper) — UK government tenders from Find a Tender and Contracts Finder: buyer, value, deadline (Apify Actor, API + MCP).
+- [City Council Meetings Scraper (Legistar)](https://apify.com/publicrecords/legistar-meetings-scraper) — City council meetings, agenda items and documents for any Legistar city (Apify Actor, API + MCP).
+- [Calibration Ledger](https://apify.com/publicrecords/calibration-ledger) — Forecast track records (IMF, OECD, Fed, ECB SPF): forecast errors and bias by organization (Apify Actor, API + MCP).
 
 ### Philippines-Specific
 
